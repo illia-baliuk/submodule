@@ -7,3 +7,4 @@ echo "new line from submodule"
 echo "one more line"
 
 echo "aaaa"
+echo "aaaa"
