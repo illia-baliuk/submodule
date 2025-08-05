@@ -8,3 +8,4 @@ echo "one more line"
 
 echo "aaaa"
 echo "aaaa"
+echo "bbb"
